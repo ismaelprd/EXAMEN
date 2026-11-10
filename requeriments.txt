@@ -1,6 +1,0 @@
-flet
-libsql
-python-dotenv
-pypdf
-google-genai
-pydantic
